@@ -18,5 +18,5 @@ if(MSVC)
 endif()
 
 # ќбъ€вл€ем тесты
-add_executable(c "part1.cpp")
-add_executable(c_simplified "part2.cpp")
+add_executable(shaker_sort "part1.cpp")
+add_executable(easy_shaker_sort "part2.cpp")

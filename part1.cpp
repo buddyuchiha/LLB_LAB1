@@ -1,4 +1,4 @@
-﻿﻿#include <stdio.h>
+﻿#include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
 #define _CRT_CECURE_NO_WARNINGS
